@@ -1,0 +1,1 @@
+// Carregado pelo ThreeJS
